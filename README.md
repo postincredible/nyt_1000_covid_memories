@@ -8,6 +8,8 @@ From the uploaded notebook file, you will be able to do the following:
 
 1) Parse the 1,000 memories' information into dataframe with 5 features,'memo', 'name', 'age', 'city_county', and 'state'.
 
-2) A world cloud built on the stem world of 'memo'.
+2) A world cloud built on words from 'memo'.
+
+3) Topic model based on latent Dirichlet allocation (LDA).
 
 More details to be added...
