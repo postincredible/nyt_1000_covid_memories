@@ -10,6 +10,6 @@ From the uploaded notebook file, you will be able to do the following:
 
 2) A world cloud built on words from 'memo'.
 
-3) Topic model based on latent Dirichlet allocation (LDA).
+3) Topic model based on latent Dirichlet allocation (LDA).(https://postincredible.github.io/nyt_1000_covid_memories/nyt_memo5.html)
 
 More details to be added...
